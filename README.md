@@ -1,4 +1,4 @@
-## Using a Potentiometer With Raspberry Pi Pico
+## Using a RGB LED With Raspberry Pi Pico
 
 Here is the Schematic
 
